@@ -1,7 +1,15 @@
-### Hi there 👋
+### Welcome！👋 
++
++ **My CSDN Blog.[[https://blog.csdn.net/etherealsymbol](https://blog.csdn.net/chengzi0602?type=blog)]**
+
+
+- 🔭 I’m currently working on python source code...
+- 🌱 I’m currently learning python, MySQL, Spring, Redis, Elasticsearch...
+- 📫 How to reach me: 2863808087@qq.com
 
 <!--
-**AIAlen/AIAlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MysticalGuest/mysticalguest** is a ✨ _special_ ✨ repository 
+because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
